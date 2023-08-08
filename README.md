@@ -7,6 +7,7 @@
 - 🔭 I’m currently working on ... Joy of Coding Internship: Off Road Fun Finder App https://play.google.com/store/apps/details?id=com.offroadfunfinder.orff
 ## My Prior Projects:
 - 🎲 ReactJam 2023 "Share the Joy" multiplayer dice game https://app.rune.ai/dev-8h2sf9xR
+- 🎲 Joy-of-Coding/React_jam_2023_JoyofCoding
 - 🎮 RPGMaker Game Jam 2017 third place winner "Final Winter" roguelite adventure https://store.steampowered.com/app/1497510/Final_Winter/
 ## 📫 How to reach me:
 - 😄 Linkedin: https://www.linkedin.com/in/katrina-wright-948333206/
