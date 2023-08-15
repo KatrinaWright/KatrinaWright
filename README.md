@@ -13,7 +13,7 @@
 - 🎮 RPGMaker Game Jam 2017 third place winner "Final Winter" roguelite adventure
 - - 🎮 https://store.steampowered.com/app/1497510/Final_Winter/
 ## 📫 How to reach me:
-- 😄 Linkedin: https://www.linkedin.com/in/katrina-wright-948333206/
+- 😄 Linkedin: https://www.linkedin.com/in/KatrinaEliseWright
 - 💻 Email: katrina.elise.wright@gmail.com
 - 👯 I’m looking to collaborate on short, potent, portfolio pieces to showcase my skills and flexibility
 
